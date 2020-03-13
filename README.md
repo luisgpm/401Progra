@@ -1,5 +1,8 @@
 # 401Progra
 Yahaira Guadalupe
+Maricruz Gonzalez Gabriel
+Angel Daniel Velazquez Gomez,
+Ady Viveros Agapito,
 Federico Climaco Bartolo,
 Arturo Santiago Ponce Rosas,
 Ulises Porcayo Caarbajal,
