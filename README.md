@@ -1,4 +1,5 @@
 # 401Progra
+Yahaira Guadalupe
 Jose Carlos Mariano, 
 Edgar Alexis
 Luis Gerardo Porcayo Marcos
@@ -17,7 +18,12 @@ Arturo Santiago Ponce Rosas,
 Ulises Porcayo Caarbajal,
 Luis Gerardo Porcayo Marcos,
 Alejandro Camacho,
+Alejandro Camacho,
+Samir Ulises Hernandez Medina,
+Samir Ulises Hernandez Medina,
+Alejandro Camacho,
 Erick Avila Tule,
 Samir Ulises Hernandez Medina,
 Samir Ulises Hernandez Medina,
+Sinai Cortes,
 Sinai Cortes,
