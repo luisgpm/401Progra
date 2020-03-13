@@ -1,5 +1,12 @@
 # 401Progra
+<<<<<<< HEAD
 Yahaira Guadalupe
+=======
+Edgar Alexis
+Luis Gerardo Porcayo Marcos
+Ulises Porcayo Caarbajal
+Alejandro Camacho,
+>>>>>>> 70dff2db709e75950feb705449e29b297b9de1a9
 Angelica Gomez Vicente
 Luis Gerardo Porcayo Marcos
 Ulises Porcayo Caarbajal
@@ -18,3 +25,7 @@ Samir Ulises Hernandez Medina,
 Samir Ulises Hernandez Medina,
 Alejandro Camacho,
 Samir Ulises Hernandez Medina,
+<<<<<<< HEAD
+=======
+Sinai Cortes,
+>>>>>>> 70dff2db709e75950feb705449e29b297b9de1a9
