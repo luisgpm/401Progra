@@ -1,12 +1,9 @@
 # 401Progra
-<<<<<<< HEAD
 Angelica Gomez Vicente
 Luis Gerardo Porcayo Marcos
 Ulises Porcayo Caarbajal
 Alejandro Camacho,
-=======
 Eldrich Romero
->>>>>>> cacb3e5af30126da4887a49729707aaa531eeed2
 Maricruz Gonzalez Gabriel
 Angel Daniel Velazquez Gomez,
 Ady Viveros Agapito,
