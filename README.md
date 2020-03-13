@@ -1,6 +1,6 @@
 # 401Progra
 Yahaira Guadalupe
-Jose Carlos Mariano, 
+Jose Carlos Mariano,
 Edgar Alexis
 Luis Gerardo Porcayo Marcos
 Ulises Porcayo Caarbajal
