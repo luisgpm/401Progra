@@ -1,7 +1,11 @@
 # 401Progra
 <<<<<<< HEAD
+<<<<<<< HEAD
 Yahaira Guadalupe
 =======
+=======
+Jose Carlos Mariano, 
+>>>>>>> 8f8a71a7bc310f801421d2dcb1449a9d098dec2b
 Edgar Alexis
 Luis Gerardo Porcayo Marcos
 Ulises Porcayo Caarbajal
