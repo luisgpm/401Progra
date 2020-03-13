@@ -1,4 +1,5 @@
 # 401Progra
+Edgar Alexis
 Luis Gerardo Porcayo Marcos
 Ulises Porcayo Caarbajal
 Alejandro Camacho,
@@ -17,3 +18,5 @@ Luis Gerardo Porcayo Marcos,
 Alejandro Camacho,
 Erick Avila Tule,
 Samir Ulises Hernandez Medina,
+Samir Ulises Hernandez Medina,
+Sinai Cortes,
