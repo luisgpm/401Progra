@@ -1,6 +1,9 @@
 # 401Progra
-<<<<<<< HEAD
 Jose Carlos Mariano, 
+Edgar Alexis
+Luis Gerardo Porcayo Marcos
+Ulises Porcayo Caarbajal
+Alejandro Camacho,
 Angelica Gomez Vicente
 Luis Gerardo Porcayo Marcos
 Ulises Porcayo Caarbajal
