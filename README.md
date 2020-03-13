@@ -1,4 +1,5 @@
 # 401Progra
+Jose Carlos Mariano, 
 Edgar Alexis
 Luis Gerardo Porcayo Marcos
 Ulises Porcayo Caarbajal
