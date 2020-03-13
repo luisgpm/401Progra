@@ -1,7 +1,10 @@
 # 401Progra
 Angel Daniel Velazquez Gomez,
+Federico Climaco Bartolo,
 Arturo Santiago Ponce Rosas,
 Ulises Porcayo Caarbajal,
 Luis Gerardo Porcayo Marcos,
+Alejandro Camacho,
+Samir Ulises Hernandez Medina,
 Alejandro Camacho,
 Samir Ulises Hernandez Medina,
